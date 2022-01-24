@@ -1,4 +1,4 @@
-# Matplotlib-Pharmacuetical study
+# Matplotlib-Pharmaceutical study
 
 ## Background
 
@@ -41,6 +41,7 @@ The Python script can be executed using Jupyter lab or Colab by loading the Mous
 Images Folder - Includes png files created from the python script and used in the Readme.
 Instructions Folder - Includes the Jupyter Notebook file with the python script.
     Data Subfolder - Includes the data in csv files and loaded to run the script.
+README.md File - Project summary and information
 
 
 
