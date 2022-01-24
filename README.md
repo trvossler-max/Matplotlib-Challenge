@@ -36,6 +36,12 @@ This project uses data from a recent animal study. In this study, 249 mice ident
 
 The Python script can be executed using Jupyter lab or Colab by loading the Mouse_metadata.csv and Study_results.csv data files and running the script.
 
+## File Structure
+
+Images Folder - Includes png files created from the python script and used in the Readme.
+Instructions Folder - Includes the Jupyter Notebook file with the python script.
+    Data Subfolder - Includes the data in csv files and loaded to run the script.
+
 
 
 
